@@ -1,0 +1,907 @@
+[
+  {
+    "id": 1,
+    "title": "Science Quiz 01",
+    "description": "This is a science quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Quel est le nom de l'élément chimique dont le symbole est Fe ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Le fer",
+            "isCorrect": true
+          },
+          {
+            "text": "Aluminium",
+            "isCorrect": false
+          },
+          {
+            "text": "Zinc",
+            "isCorrect": false
+          },
+          {
+            "text": "magnésium",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est le nom de la force qui attire tous les objets vers le centre de la Terre ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "La gravité",
+            "isCorrect": true
+          },
+          {
+            "text": "Force",
+            "isCorrect": false
+          },
+          {
+            "text": "poids",
+            "isCorrect": false
+          },
+          {
+            "text": "amortissement",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Comment appelle-t-on le processus par lequel les plantes absorbent de l'eau par leurs racines ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "L'absorption hydrique",
+            "isCorrect": true
+          },
+          {
+            "text": "Transpiration",
+            "isCorrect": false
+          },
+          {
+            "text": "Conduction",
+            "isCorrect": false
+          },
+          {
+            "text": "Evaporation",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est le nom de la plus grande planète du système solaire ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Jupiter",
+            "isCorrect": true
+          },
+          {
+            "text": "Terre",
+            "isCorrect": false
+          },
+          {
+            "text": "Uranus",
+            "isCorrect": false
+          },
+          {
+            "text": "Neptune",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Comment appelle-t-on l'étude des organismes vivants et de leurs interactions avec leur environnement ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "L'écologie",
+            "isCorrect": true
+          },
+          {
+            "text": "Photosynthèse",
+            "isCorrect": false
+          },
+          {
+            "text": "Evapotranspiration",
+            "isCorrect": false
+          },
+          {
+            "text": "Respiration",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Science Quiz 02",
+    "description": "This is a science quiz 2 description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 1,
+    "questions": [
+      {
+        "text": "Quel est le nom de l'unité de mesure de la température en physique ?",
+        "duration": 10,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Le degré Celsius",
+            "isCorrect": true
+          },
+          {
+            "text": "Fahrenheit",
+            "isCorrect": false
+          },
+          {
+            "text": "Kelvin",
+            "isCorrect": false
+          },
+          {
+            "text": "Rankine",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Comment appelle-t-on l'ensemble des organismes qui vivent dans un même milieu ?",
+        "duration": 15,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "La communauté biologique",
+            "isCorrect": true
+          },
+          {
+            "text": "Groupe biologique",
+            "isCorrect": false
+          },
+          {
+            "text": "Souche biologique",
+            "isCorrect": false
+          },
+          {
+            "text": "Espèce biologique",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est le nom de la particule subatomique qui a une charge positive ?",
+        "duration": 20,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Le proton",
+            "isCorrect": true
+          },
+          {
+            "text": "Noyau",
+            "isCorrect": false
+          },
+          {
+            "text": "Electron",
+            "isCorrect": false
+          },
+          {
+            "text": "Neutron",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Comment appelle-t-on la réaction chimique qui libère de la chaleur ?",
+        "duration": 25,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "L'exothermie",
+            "isCorrect": true
+          },
+          {
+            "text": "Endothermique",
+            "isCorrect": false
+          },
+          {
+            "text": "Combustion",
+            "isCorrect": false
+          },
+          {
+            "text": "Réaction thermique",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est le nom de l'élément chimique dont le symbole est O ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": " L'oxygène",
+            "isCorrect": true
+          },
+          {
+            "text": "Hydrogéne",
+            "isCorrect": false
+          },
+          {
+            "text": "Ozone",
+            "isCorrect": false
+          },
+          {
+            "text": "Dioxyde de carbone",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est le nom du plus grand océan de la Terre ?",
+        "duration": 35,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "L'océan Pacifique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'océan indian",
+            "isCorrect": false
+          },
+          {
+            "text": "L'océan atlantique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'océan arctique",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 3,
+    "title": "Music Quiz 01",
+    "description": "This is a music quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 2,
+    "questions": [
+      {
+        "text": "Quel célèbre compositeur de musique classique est également connu sous le surnom de Maestro ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Wolfgang Amadeus Mozart",
+            "isCorrect": true
+          },
+          {
+            "text": "Frédéric Chopin",
+            "isCorrect": false
+          },
+          {
+            "text": "Antonio Vivaldi",
+            "isCorrect": false
+          },
+          {
+            "text": "Luigi Boccherini",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel instrument à cordes frottées est souvent utilisé comme base pour l'orchestre ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "La contrebasse",
+            "isCorrect": true
+          },
+          {
+            "text": "Violoncelle",
+            "isCorrect": false
+          },
+          {
+            "text": "Alto",
+            "isCorrect": false
+          },
+          {
+            "text": "Violon",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Comment appelle-t-on le rythme de la musique classique indien ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Le tala",
+            "isCorrect": true
+          },
+          {
+            "text": "Veena",
+            "isCorrect": false
+          },
+          {
+            "text": "Flute",
+            "isCorrect": false
+          },
+          {
+            "text": "Mridangam",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est le nom du plus célèbre opéra de Giuseppe Verdi ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "La Traviata",
+            "isCorrect": true
+          },
+          {
+            "text": "Rigoletto",
+            "isCorrect": false
+          },
+          {
+            "text": "La Force du destin",
+            "isCorrect": false
+          },
+          {
+            "text": "Nabucco",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel instrument à clavier a été inventé au Moyen Âge et est souvent associé à la musique baroque ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Le clavecin",
+            "isCorrect": true
+          },
+          {
+            "text": "Le pianoforte",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tympanon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le virginal",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 4,
+    "title": "Sport Quiz 01",
+    "description": "This is a sport quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 3,
+    "questions": [
+      {
+        "text": "Dans quel sport les joueurs tentent-ils de marquer des points en plaçant un ballon dans un panier ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Le basketball",
+            "isCorrect": true
+          },
+          {
+            "text": "Le tennis",
+            "isCorrect": false
+          },
+          {
+            "text": "Le football",
+            "isCorrect": false
+          },
+          {
+            "text": "La boxe",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dans quelle discipline sportive les athlètes effectuent-ils des mouvements acrobatiques sur un tapis de gymnastique ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "La gymnastique artistique",
+            "isCorrect": true
+          },
+          {
+            "text": "Gymnastique Acrobatique",
+            "isCorrect": false
+          },
+          {
+            "text": "Gymnastique Rythmique",
+            "isCorrect": false
+          },
+          {
+            "text": "Tumbling",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dans quel sport les joueurs se déplacent-ils sur la glace à l'aide de patins pour essayer de marquer des buts ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Le hockey sur glace",
+            "isCorrect": true
+          },
+          {
+            "text": "Basket-ball",
+            "isCorrect": false
+          },
+          {
+            "text": "Le tennis",
+            "isCorrect": false
+          },
+          {
+            "text": "Le football",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dans quel sport les joueurs courent-ils sur une piste pour tenter d'aller plus vite que leurs adversaires sur des distances de 100m, 200m ou 400m ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "L'athlétisme",
+            "isCorrect": true
+          },
+          {
+            "text": "La course",
+            "isCorrect": false
+          },
+          {
+            "text": "Les sauts",
+            "isCorrect": false
+          },
+          {
+            "text": "Les lancers",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Dans quelle discipline sportive les joueurs se déplacent-ils sur des skis pour tenter de descendre une pente le plus rapidement possible ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Le ski alpin",
+            "isCorrect": true
+          },
+          {
+            "text": "Freeride",
+            "isCorrect": false
+          },
+          {
+            "text": "Télémark",
+            "isCorrect": false
+          },
+          {
+            "text": "Ski de fond",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 5,
+    "title": "Nature Quiz 01",
+    "description": "This is a nature quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 4,
+    "questions": [
+      {
+        "text": "Comment appelle-t-on la couche supérieure de la Terre, où poussent les plantes et vivent les animaux ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "La biosphère",
+            "isCorrect": true
+          },
+          {
+            "text": "Noeud",
+            "isCorrect": false
+          },
+          {
+            "text": "Feuille",
+            "isCorrect": false
+          },
+          {
+            "text": "Racine",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est le nom de l'animal le plus rapide sur terre, capable de courir à une vitesse de plus de 100 km/h ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Le guépard",
+            "isCorrect": true
+          },
+          {
+            "text": "Le Kangourou",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Lycaon",
+            "isCorrect": false
+          },
+          {
+            "text": "Le Blackbuck",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Comment appelle-t-on les organismes qui produisent leur propre nourriture à partir de la lumière du soleil, de l'eau et du dioxyde de carbone ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Les autotrophes",
+            "isCorrect": true
+          },
+          {
+            "text": "Photosynthèse",
+            "isCorrect": false
+          },
+          {
+            "text": "Photoautotrophie",
+            "isCorrect": false
+          },
+          {
+            "text": "Chimioautotrophie",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est le nom du plus grand océan de la planète ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "L'océan Pacifique",
+            "isCorrect": true
+          },
+          {
+            "text": "L'océan Indian",
+            "isCorrect": false
+          },
+          {
+            "text": "L'océan atlantique",
+            "isCorrect": false
+          },
+          {
+            "text": "L'océan arctique",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Comment appelle-t-on les animaux qui se nourrissent à la fois de plantes et d'animaux ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Les omnivores",
+            "isCorrect": true
+          },
+          {
+            "text": "Reptiles",
+            "isCorrect": false
+          },
+          {
+            "text": "Arthropodes",
+            "isCorrect": false
+          },
+          {
+            "text": "Oiseaux",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 6,
+    "title": "English Quiz 01",
+    "description": "This is a English quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 5,
+    "questions": [
+      {
+        "text": "What is the past tense of the verb  to go?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "went",
+            "isCorrect": true
+          },
+          {
+            "text": "go",
+            "isCorrect": false
+          },
+          {
+            "text": "is going",
+            "isCorrect": false
+          },
+          {
+            "text": "to go",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is the comparative form of the adjective good?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "better",
+            "isCorrect": true
+          },
+          {
+            "text": "good",
+            "isCorrect": false
+          },
+          {
+            "text": "best",
+            "isCorrect": false
+          },
+          {
+            "text": "gooder",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is the name for a word that has the opposite meaning of another word?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Antonym",
+            "isCorrect": true
+          },
+          {
+            "text": "Opposite",
+            "isCorrect": false
+          },
+          {
+            "text": "synonym",
+            "isCorrect": false
+          },
+          {
+            "text": "difference",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is the plural form of the noun child?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "children",
+            "isCorrect": true
+          },
+          {
+            "text": "childs",
+            "isCorrect": false
+          },
+          {
+            "text": "enfants",
+            "isCorrect": false
+          },
+          {
+            "text": "childrens",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "What is the superlative form of the adjective tall?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "tallest",
+            "isCorrect": true
+          },
+          {
+            "text": "taller",
+            "isCorrect": false
+          },
+          {
+            "text": "verytall",
+            "isCorrect": false
+          },
+          {
+            "text": "the taller",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  },
+
+  {
+    "id": 7,
+    "title": "Mathematics Quiz 01",
+    "description": "This is a Mathematics quiz description. This is multiline text",
+    "shuffleQuestions": true,
+    "imagePath": "",
+    "categoryId": 6,
+    "questions": [
+      {
+        "text": "Quel est le résultat de l'addition 5 + 8 ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "13",
+            "isCorrect": true
+          },
+          {
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "text": "14",
+            "isCorrect": false
+          },
+          {
+            "text": "16",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Combien de côtés a un triangle ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "3",
+            "isCorrect": true
+          },
+          {
+            "text": "2",
+            "isCorrect": false
+          },
+          {
+            "text": "1",
+            "isCorrect": false
+          },
+          {
+            "text": "4",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Quel est le nom de la formule qui permet de calculer l'aire d'un cercle ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "Pi × rayon² (A = πr²)",
+            "isCorrect": true
+          },
+          {
+            "text": "Pi + rayon² (A = πr²)",
+            "isCorrect": false
+          },
+          {
+            "text": "Pi × rayon (A = πr²)",
+            "isCorrect": false
+          },
+          {
+            "text": "Pi - rayon² (A = πr²)",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Combien de degrés y a-t-il dans un angle droit ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "90",
+            "isCorrect": true
+          },
+          {
+            "text": "30",
+            "isCorrect": false
+          },
+          {
+            "text": "40",
+            "isCorrect": false
+          },
+          {
+            "text": "50",
+            "isCorrect": false
+          }
+        ]
+      },
+      {
+        "text": "Combien de faces a un cube ?",
+        "duration": 30,
+        "shuffleOptions": true,
+        "options": [
+          {
+            "text": "6",
+            "isCorrect": true
+          },
+          {
+            "text": "4",
+            "isCorrect": false
+          },
+          {
+            "text": "10",
+            "isCorrect": false
+          },
+          {
+            "text": "12",
+            "isCorrect": false
+          }
+        ]
+      }
+    ]
+  }
+
+  
+]
